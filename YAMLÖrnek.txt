@@ -1,0 +1,10 @@
+# Bu bir bilgi satırıdır.
+isim: Meliha İpek
+yaş: 33
+İletişim:
+ev: 1012355532
+ofis: 5001111111
+adres:
+sokak:123 Sokak
+Site 16
+şehir: Ankara
