@@ -1,0 +1,16 @@
+{
+  "student": [ 
+	
+     { 
+        "id":"01", 
+        "name": "Meliha", 
+        "lastname": "İpek" 
+     }, 
+	
+     { 
+        "id":"02", 
+        "name": "Mesude", 
+        "lastname": "İpek" 
+     } 
+  ]   
+}
